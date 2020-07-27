@@ -1,0 +1,31 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #341B50;
+}
+
+h2 {
+  margin-top: 2em; 
+  color: #172B45;
+}
+
+.question {
+  display: flex;
+  margin-top: 2em;
+}
+  
+.answer-choice img {
+  height: 10em;
+}
+
+body {
+  background-color: #79D2BC
+;
+  
+font-family: 'Abril Fatface', cursive;  
